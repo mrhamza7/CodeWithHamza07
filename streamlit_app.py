@@ -1,7 +1,5 @@
 import streamlit as st
 import pickle
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
 
 # Set page config (title and favicon)
 st.set_page_config(page_title="My Portfolio", page_icon="static/favicon_io/favicon.ico")
